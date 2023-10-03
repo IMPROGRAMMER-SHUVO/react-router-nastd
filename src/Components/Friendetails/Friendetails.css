@@ -1,0 +1,10 @@
+.detailsfnd{
+    border: 3px solid blueviolet;
+    padding: 30px;
+    box-shadow: 3px 3px 3px 6px rgb(179, 86, 171);
+}
+.detailsfnd h1{
+    color: blueviolet;
+    font-family: bold;
+    text-transform: uppercase;
+}

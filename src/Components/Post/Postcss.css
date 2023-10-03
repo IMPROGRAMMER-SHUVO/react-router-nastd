@@ -1,0 +1,6 @@
+.postcss{
+    display: grid;
+    grid-template-columns: repeat(4,6fr);
+    gap: 3;
+
+}

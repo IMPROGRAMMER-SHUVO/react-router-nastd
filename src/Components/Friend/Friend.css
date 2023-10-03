@@ -1,0 +1,13 @@
+.friend{
+    border: 3px solid rgb(116, 20, 226);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 40px;
+    border-top-color: rgb(24, 82, 168);
+    border-bottom-color: rgb(20, 66, 167);
+}
+.friend h3{
+    background-color: rgb(87, 67, 204);
+   border-radius: 40px;
+
+}

@@ -1,0 +1,19 @@
+.navbar{
+    background-color: aqua;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+   border-radius: 0px 0px 100px  100px;
+    margin-left: -40px;
+    margin-right: 137px;
+    color: rgb(170, 47, 170);
+}
+.navbar a {
+    font-weight: 800;
+    color: #101ed3;
+    text-decoration: inherit;
+    text-transform: uppercase;
+}
+.navbar a:hover{
+    color: rgb(255, 0, 157);
+}
